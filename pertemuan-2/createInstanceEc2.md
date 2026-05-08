@@ -20,4 +20,3 @@
 12. Pastikan nama sesuai -> klik Instance
 
 ![alt text](image-5.png)
-
